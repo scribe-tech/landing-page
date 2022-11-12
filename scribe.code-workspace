@@ -1,6 +1,10 @@
 {
 	"folders": [
 		{
+			"name": "css",
+			"path": "../../../Desktop/landing-page/Scribe/assets/css"
+		},
+		{
 			"name": "assets",
 			"path": "../../../Desktop/landing-page/assets"
 		},
@@ -11,6 +15,22 @@
 		{
 			"name": "forms",
 			"path": "../../../Desktop/landing-page/forms"
+		},
+		{
+			"name": "img",
+			"path": "../../../Desktop/landing-page/Scribe/assets/img"
+		},
+		{
+			"name": "js",
+			"path": "../../../Desktop/landing-page/Scribe/assets/js"
+		},
+		{
+			"name": "scss",
+			"path": "../../../Desktop/landing-page/Scribe/assets/scss"
+		},
+		{
+			"name": "vendor",
+			"path": "../../../Desktop/landing-page/Scribe/assets/vendor"
 		}
 	],
 	"settings": {}
